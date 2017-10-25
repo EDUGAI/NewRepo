@@ -1,0 +1,26 @@
+1)	Which of the following is/are the steps, which can be identified for transformation process from data-flow diagram 	to structure chart.
+	i) Identify system-processing transformations
+	ii) Identify storage transformations
+	iii) Identify input transformations
+	iv) Identify output transformations
+		A) i, ii and iii only
+		B) ii, iii and iv only
+		C) i, iii and iv only
+		D) All i, ii, iii and iv
+Ans). i, iii and iv only
+
+2).	The architectural model is derived from which of these sources?
+
+	A) Information about the application domain for the software to be built; 
+	B) Specific requirements model elements such as data flow diagrams or analysis classes, their relationships and 	collaborations for the problem at hand;
+	C) The availability of architectural styles and patterns. 
+
+Ans).Both A & B
+
+-----------------CN
+
+1). The probability that a single bit will be in error on a typical public telephone line using 4800 bps modem is 10 to the power -3. If no error detection mechanism is used, the residual error rate for a communication line using 9-bit frames is approximately equal to
+Ans)0.009
+
+2).How many IP addresses can be assigned to hosts in a C-class network segment with a subnet mask of 255.255.255.192?
+Ans).	192
