@@ -1,0 +1,74 @@
+body
+{
+     background: url("images/123.jpg");
+     background-size: cover;
+    
+     padding: 0px;
+     margin: 0px;
+}
+h1{
+     font-family: arial,sans-serif;
+     font-weight: 400;
+     height: 260px;
+     width: 100%;
+     margin-top:240px;
+     margin-left: 20px;
+     line-height: 60px;
+     color: White;
+    
+}
+div{
+     width:250px;
+     height: 710px;
+     background-color: red;
+     opacity: 0.7;
+   
+}
+div a{
+     text-decoration: none;
+     color: white;
+     padding: 20px;
+     padding-right: 100px;
+     
+}
+div ul li{
+    list-style-type: none;
+    display: block;
+   padding:15px;
+   border-bottom: 1px solid #236D7F;
+}
+div ul li:hover{
+    background:#595f60;
+    transition: all linear 0.40s;
+    margin-left: 10px;
+}
+
+div ul li:hover{
+    color:black;
+}
+.selected{
+    background:white;
+  
+}
+.selected a{
+     color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
